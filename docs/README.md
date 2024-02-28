@@ -3,24 +3,24 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-4yp-project-template
-title:
+repository-name: e18-4yp-RPA-attacks-using-Machine-Learning-Algorithms
+title: RPA Attacks using Machine Learning Algorithms
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# RPA Attacks using Machine Learning Algorithms
 
 #### Team
 
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
+- E/18/028, Jeewantha Ariyawansha, [e18028@eng.pdn.ac.lk](mailto:name@email.com)
+- E/18/173, Ishan Kasthuripitiya, [e18173@eng.pdn.ac.lk](mailto:name@email.com)
+- E/18/285, Tharindu Ranasinghe, [e18285@eng.pdn.ac.lk](mailto:name@email.com)
 
 #### Supervisors
 
-- Name, [email](mailto:name@eng.pdn.ac.lk)
-- Name, [email](mailto:name@eng.pdn.ac.lk)
+- Assoc. Prof. Manjula Sandirigama, [manjula.sandirigama@eng.pdn.ac.lk](mailto:name@eng.pdn.ac.lk)
+- Dr. Darshana Jayasinghe, [darshana.jayasinghe@sydney.edu.au](mailto:name@eng.pdn.ac.lk)
 
 #### Table of content
 
@@ -68,8 +68,8 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 [//]: # ( NOTE: EDIT THIS LINKS WITH YOUR REPO DETAILS )
 
-- [Project Repository](https://github.com/cepdnaclk/repository-name)
-- [Project Page](https://cepdnaclk.github.io/repository-name)
+- [Project Repository](https://github.com/cepdnaclk/e18-4yp-RPA-attacks-using-Machine-Learning-Algorithms)
+- [Project Page](https://cepdnaclk.github.io/e18-4yp-RPA-attacks-using-Machine-Learning-Algorithms)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
