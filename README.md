@@ -1,7 +1,6 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
+# RPA Attacks using Machine Learning Algorithms
 ___
 
-## Please refer the instructions in below URL:
+Remote power analysis attacks (RPAAs) are a severe threat to cryptographic systems because they allow adversaries to extract secret data, such as keys, remotely. This paper reviews the most recent methods for enhancing the effectiveness of RPAAs through machine learning (ML). The foundations of RPAAs and the inherent difficulties in remote settings are first described in this article. Then, various supervised learning strategies are explored to increase attack efficiency and accuracy. These strategies include ensemble approaches, regression, and classification. Critical analysis is done on the benefits and drawbacks of combining ML with RPAAs, emphasizing advantages like higher attack success rates and lower data requirements. Additionally, defenses against ML-enhanced RPAAs are examined, and moral questions about these attacks are brought forward. Lastly, prospective research avenues are highlighted to improve assault tactics and strengthen defenses against RPAAs. This review highlights the substantial potential of ML algorithms to increase RPAA efficacy. Nonetheless, before ML-based RPAAs are widely used, several recognized issues need to be resolved.
 
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
