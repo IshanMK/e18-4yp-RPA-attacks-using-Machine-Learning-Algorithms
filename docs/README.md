@@ -29,9 +29,6 @@ title: RPA Attacks using Machine Learning Algorithms
 3. [Methodology](#methodology)
 4. [Publications](#publications)
 5. [Links](#links)
-<!-- 4. [Experiment Setup and Implementation](#experiment-setup-and-implementation)
-5. [Results and Analysis](#results-and-analysis)
-6. [Conclusion](#conclusion)-->
 
 
 ---
