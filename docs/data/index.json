@@ -1,0 +1,37 @@
+{
+    "team": [
+        {
+            "name": "Jeewantha Ariyawansha",
+            "email": "e18028@eng.pdn.ac.lk",
+            "eNumber": "E/18/028"
+        },
+        {
+            "name": "Ishan Kasthuripitiya",
+            "email": "e18173@eng.pdn.ac.lk",
+            "eNumber": "E/18/173"
+        },
+        {
+            "name": "Tharindu Ranasinghe",
+            "email": "e18285@eng.pdn.ac.lk",
+            "eNumber": "E/18/285"
+        }
+    ],
+    "supervisors": [
+        {
+            "name": "Assoc. Prof. Manjula Sandirigama",
+            "email": "manjula.sandirigama@eng.pdn.ac.lk"
+        },
+        {
+            "name": "Dr. Darshana Jayasinghe",
+            "email": "darshana.jayasinghe@sydney.edu.au"
+        }
+    ],
+    "media": [
+        {
+            "type": "youtube",
+            "title": "",
+            "url": "#"
+        }
+    ],
+    "tags": ["Final Year Projects"]
+}
