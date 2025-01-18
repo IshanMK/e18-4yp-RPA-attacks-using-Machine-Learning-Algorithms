@@ -4,6 +4,7 @@ ___
 
 This project aims to investigate the use of machine learning algorithms to enhance remote power analysis attacks (RPAAs) on cryptographic systems. RPAAs are a type of side-channel attack that exploit the power consumption patterns of a target device to extract secret information, such as keys, without physical access. Machine learning algorithms can improve the accuracy and efficiency of RPAAs by reducing the data requirements, adapting to different scenarios, and overcoming noise and countermeasures. This project reviews the state-of-the-art methods for RPAAs using machine learning, including supervised learning techniques such as regression, classification, and ensemble methods. It also discusses the challenges, benefits, and ethical issues of applying machine learning to RPAAs, as well as the potential countermeasures and future research directions. The project is based on the AISY framework, which provides a flexible and adaptive platform for side-channel analysis using information-theoretic metrics.
 
+<<<<<<< HEAD
 # Instruction Guide for Setting Up AISY Framework
 
 Follow the steps below to set up and run the AISY Framework properly:
@@ -68,3 +69,5 @@ Run the program:
 ```bash
 python scripts/script_aes_final_constant_key.py
 ```
+=======
+>>>>>>> 316eb30a8232c99db980a930ffd25351c709cd52
