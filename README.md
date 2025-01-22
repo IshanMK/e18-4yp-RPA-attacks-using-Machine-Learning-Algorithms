@@ -4,7 +4,6 @@ ___
 
 This project aims to investigate the use of machine learning algorithms to enhance remote power analysis attacks (RPAAs) on cryptographic systems. RPAAs are a type of side-channel attack that exploit the power consumption patterns of a target device to extract secret information, such as keys, without physical access. Machine learning algorithms can improve the accuracy and efficiency of RPAAs by reducing the data requirements, adapting to different scenarios, and overcoming noise and countermeasures. This project reviews the state-of-the-art methods for RPAAs using machine learning, including supervised learning techniques such as regression, classification, and ensemble methods. It also discusses the challenges, benefits, and ethical issues of applying machine learning to RPAAs, as well as the potential countermeasures and future research directions. The project is based on the AISY framework, which provides a flexible and adaptive platform for side-channel analysis using information-theoretic metrics.
 
-<<<<<<< HEAD
 # Instruction Guide for Setting Up AISY Framework
 
 Follow the steps below to set up and run the AISY Framework properly:
@@ -42,11 +41,10 @@ Edit the following files:
 Replace the code lines as per the marked region text provided in the right side of the picture.
 
 Replace the `self.metadata = MetaData(self.engine)` with `self.metadata = MetaData(); self.metadata.bind = self.engine`
-
-![db save](https://github.com/user-attachments/assets/f6dcaadd-0208-41d8-904c-e46964472e15)
-![db select](https://github.com/user-attachments/assets/f73fbdad-133f-4832-8082-17362716808c)
-![db update](https://github.com/user-attachments/assets/1ca71c95-a40b-49ec-ad0b-40163539889b)
-![db delete](https://github.com/user-attachments/assets/f6c848f2-3633-4ec9-8da2-b72ba72064b1)
+![db save](https://github.com/user-attachments/assets/9468e590-5558-4b1c-8631-491505d019d0)
+![db select](https://github.com/user-attachments/assets/f4fb85ac-e4f0-4701-ac2f-6b4dc555a1ff)
+![db update](https://github.com/user-attachments/assets/bc930e1d-7c0c-44c3-8089-12ad2c011e4c)
+![db delete](https://github.com/user-attachments/assets/72672aca-6880-4c93-ae77-a298329d39fa)
 
 
 ## Step 4: Edit the `app.py` File
@@ -56,7 +54,8 @@ Update the `app.py` file to reflect the correct locations of the following folde
 - `resources`
 
 Ensure the folder paths are set correctly in the application logic.
-![app file](https://github.com/user-attachments/assets/d46ea52b-87c8-4ed2-9f1c-db868a8895bd)
+![app file](https://github.com/user-attachments/assets/2ac587b0-9274-412e-9662-1492fa8fb738)
+
 
 ## Step 5: Run the Web Application
 Start the web application using Flask:
@@ -69,5 +68,3 @@ Run the program:
 ```bash
 python scripts/script_aes_final_constant_key.py
 ```
-=======
->>>>>>> 316eb30a8232c99db980a930ffd25351c709cd52
