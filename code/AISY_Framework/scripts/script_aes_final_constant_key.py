@@ -25,5 +25,5 @@ aisy.set_aes_leakage_model(leakage_model="ID", byte=4, round=1,
 
 aisy.set_batch_size(1000)
 aisy.set_epochs(15)
-aisy.set_neural_network(cnn)
+aisy.set_neural_network(custom_cnn)
 aisy.run(key_rank_attack_traces=25000)
